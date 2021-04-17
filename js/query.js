@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    $.get("../../js/fakedb.json",function(data){
+    $.get("/fakedb.json",function(data){
         let record ='<article class="mt-0 mx-auto">';
         $.each( data, function( i ) {                    
         let short= data[i].content.split(" ").splice(0,18).join(" ");
