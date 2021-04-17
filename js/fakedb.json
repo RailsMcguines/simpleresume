@@ -1,0 +1,32 @@
+[
+{
+    "id": 1,
+    "title": "¿Qué es una webapp responsiva?",
+    "content": "Esto es una noticia de lo que estoy haciendo parte 1",
+    "date": "12/05/21"
+
+},
+
+{
+    "id": 2,
+    "title": "¿Conoces el proyecto Bootswach?",
+    "content": "Esto es una noticia de lo que estoy haciendo parte 2, seguro que te puede interesar este tema donde doy un resumen al por mayor de todo el contenido relevante.",
+    "date": "11/04/21"
+
+},
+
+{
+    "id": 3,
+    "title": "¿Qué es React.js?",
+    "content": "Esto es una noticia de lo que estoy haciendo parte 3",
+    "date": "04/03/21"
+
+},
+{
+    "id": 4,
+    "title": "Las ventajas de tener tu sitioweb y tu dominio",
+    "content": "Esto es una noticia de lo que estoy haciendo parte 4",
+    "date": "22/01/21"
+
+}
+]
