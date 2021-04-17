@@ -6,3 +6,6 @@ This job contains a one file with wireframe layout reference.
 The web page don´t need complicated instructions, only deploy in your web server.
 
 Too easy, right?
+
+try online here:
+https://railsmcguines.github.io/simpleresume/index.html
