@@ -12,6 +12,6 @@ https://railsmcguines.github.io/simpleresume/index.html
 
 ### Observations:
 
-  -Tested with HD resolution: 1280 x 720px
-  -This version doesn´t support responsive Design (for next iteration).
-  -It doesn´t have an administration console 
+  - Tested with HD resolution: 1280 x 720px
+  - This version doesn´t support responsive Design (for next iteration).
+  - It doesn´t have an administration console 
